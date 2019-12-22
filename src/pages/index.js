@@ -30,7 +30,7 @@ const IndexPage = () => (
         </a>
       </Scroll>
     </section>
-
+    {/*
     <section id="one" className="wrapper style1 special">
       <div className="inner">
         <header className="major">
@@ -200,6 +200,7 @@ const IndexPage = () => (
         </ul>
       </div>
     </section>
+    */}
   </Layout>
 );
 
