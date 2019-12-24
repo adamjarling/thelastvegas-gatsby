@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'The Last Vegas', // <title>
+  siteTitle: 'The Last Vegas - USA hard garage glam boogie rock band', // <title>
   manifestName: 'Spectral',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -14,21 +14,34 @@ module.exports = {
   socialLinks: [
     {
       style: 'brands',
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      icon: 'fa-facebook',
+      name: 'Facebook',
+      url: 'https://www.facebook.com/thelastvegas/',
     },
     {
       style: 'brands',
-      icon: 'fa-twitter',
-      name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
+      icon: 'fa-instagram',
+      name: 'Instagram',
+      url: 'https://www.instagram.com/thelastvegas/',
     },
     {
-      style: 'solid',
-      icon: 'fa-envelope',
-      name: 'Email',
-      url: 'mailto:test@example.com',
+      style: 'brands',
+      icon: 'fa-youtube',
+      name: 'YouTube',
+      url: 'https://www.youtube.com/user/thelastvegasvideos',
     },
+    {
+      style: 'brands',
+      icon: 'fa-spotify',
+      name: 'Spotify',
+      url: 'https://open.spotify.com/artist/7fXDfYeQzpPak5bAizQApC',
+    },
+
+    // {
+    //   style: 'solid',
+    //   icon: 'fa-envelope',
+    //   name: 'Email',
+    //   url: 'mailto:test@example.com',
+    // },
   ],
 };
